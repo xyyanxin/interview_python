@@ -147,10 +147,13 @@ print a  # [1]
 
 
 ## 2 Python中的元类(metaclass)
-
+主要的作用就是动态的修改创建类的行为。
 这个非常的不常用,但是像ORM这种复杂的结构还是会需要的,
 详情请看:http://stackoverflow.com/questions/100003/what-is-a-metaclass-in-python
 或者廖雪峰的这篇文章：https://www.liaoxuefeng.com/wiki/001374738125095c955c1e6d8bb493182103fac9270762a000/001386820064557c69858840b4c48d2b8411bc2ea9099ba000
+或者知乎的这篇文章：
+https://zhuanlan.zhihu.com/p/24633374
+
 
 ## 3 @staticmethod和@classmethod
 
